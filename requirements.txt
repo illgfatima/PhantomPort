@@ -1,0 +1,2 @@
+# minimal requirements; Tkinter usually part of Python stdlib
+# no third-party packages required for core features
