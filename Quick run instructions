@@ -1,0 +1,8 @@
+1.Start server in terminal A:
+                               python3 phantomport.py server
+
+2.Run scanner in terminal B:
+                            python3 phantomport.py scan 127.0.0.1 1-1024 60
+
+3.Or use GUI:
+              python3 gui.py
